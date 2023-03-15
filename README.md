@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-este es un repositorio de prueba del prep course de henry
+Este proyecto es una prueba de como clonar un repositorio y guardarlo en nuestra pc
